@@ -13,9 +13,6 @@ Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Material_UI-white?style=plastic&logo=mui&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=plastic&logo=bootstrap&labelColor=white)
 
-![Static Badge](https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&labelColor=black&color=gold)
-![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=plastic&logo=django&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/React.js-blue?style=plastic&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Angular-%23DD0031?style=plastic&logo=angular&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=plastic&logo=vue.js&labelColor=black)
