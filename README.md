@@ -9,7 +9,6 @@ Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Next.js-gray?style=plastic&logo=next.js&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=plastic&logo=tailwindcss&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=plastic&logo=bootstrap&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/React.js-blue?style=plastic&logo=react&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=plastic&logo=html5&labelColor=black)
